@@ -1,0 +1,4 @@
+go-api-service
+*.terraform/
+.terraform*
+*.tfstate*
